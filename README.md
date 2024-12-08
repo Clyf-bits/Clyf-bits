@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clyf
 - 👀 I’m interested in all things Data
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently getting my projects & repos up
 - 💞️ I’m looking to collaborate on projects related to climate, natural resources, and general sustainability
 - 📫 How to reach me: clyfnjeru@gmail.com
   
